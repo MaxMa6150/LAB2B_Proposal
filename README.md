@@ -35,6 +35,8 @@ int main() {
 The result is shown below:
 
 
+
+
 # Outline
 
 In lab 2B we plan to build the circuit in following steps:
