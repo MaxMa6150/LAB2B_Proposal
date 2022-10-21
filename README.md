@@ -34,7 +34,7 @@ int main() {
 
 The result is shown below:
 
-
+![](https://github.com/MaxMa6150/LAB2B_Proposal/blob/main/LED.gif)
 
 
 # Outline
