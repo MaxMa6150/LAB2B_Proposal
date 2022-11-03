@@ -64,9 +64,13 @@ For our design, we do have some questions:
 
 Since we had not finalized the proposal, we first solder QT PY 2040 on the prototype board.
 
+![](https://github.com/MaxMa6150/LAB2B_Proposal/blob/main/soildering.gif)
+
 ### Soldering test
 
 To test if the prototype works, we used the previous blinking code to test the board.
+
+![](https://github.com/MaxMa6150/LAB2B_Proposal/blob/main/soildering%20test.gif)
 
 
 
