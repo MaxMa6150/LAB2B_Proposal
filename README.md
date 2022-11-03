@@ -55,3 +55,18 @@ For our design, we do have some questions:
 1) When the sensor detects the brightness, will it return a specific value to RP2040? Or will it return values in a different pattern?
 
 2) Same question for gesture sensor and its return... Will it use the I2C protocol?
+
+*Since I tested positive, Ying and Sudong worked seperately with me. I worked on coding part and tested on breadboard. Ying and Sudong finished soildering process and tested on prototype board*
+
+## Oct. 28th Uptading (Done by Ying and Sudong)
+
+### Soldering Process
+
+Since we had not finalized the proposal, we first solder QT PY 2040 on the prototype board.
+
+### Soldering test
+
+To test if the prototype works, we used the previous blinking code to test the board.
+
+
+
