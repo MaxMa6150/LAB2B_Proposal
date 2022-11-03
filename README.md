@@ -156,7 +156,15 @@ int main() {
     return 0;
 }
 ```
+The result is shown below:
 
+![](https://github.com/MaxMa6150/LAB2B_Proposal/blob/main/breadboard_test.gif)
 
+When the red LED is on, the screen will show "Wait!" until green light is on with "Ready to go!" shown on screen.
 
+After confirming the circuit and code work, we soldered it on the prototype board.
+
+### Show Case
+
+![927520edabd285b5f17250b07c2cb319 (2)](https://user-images.githubusercontent.com/113209201/199844649-651d14af-3e6d-44d9-bd40-b041eabe2921.gif)
 
